@@ -126,17 +126,21 @@ Buildroot | [busybox.net](https://git.busybox.net/buildroot/) |  | Mark Corbin (
 
 Name | Links | License | Maintainers
 ---- | ----- | ------- | -----------
-Fedora | [fedoraproject.org](http://fedoraproject.org/wiki/Architectures/RISC-V) | | Richard WM Jones, Stefan O’Rear, David Abdurachmanov
+Arch Linux | [github](https://github.com/archlinux/linux/tree/master/arch/riscv) |  | 
+Ataraxia Linux | [github](https://github.com/ataraxialinux/ataraxia) |  | protonesso
 Debian | [debian wiki](https://wiki.debian.org/RISC-V), [mit.edu](http://riscv.mit.edu/), [riscv.org](https://content.riscv.org/wp-content/uploads/2016/07/Wed1115_Working_Towards_a_Debian_RISC-V_Port.pdf), [Annc](https://people.debian.org/~mafm/posts/2017/20170422_debian-gnulinux-port-for-risc-v-64-bit-riscv64/) | | Manuel A. Fernandez Montecelo
+Fedora | [fedoraproject.org](http://fedoraproject.org/wiki/Architectures/RISC-V) | | Richard WM Jones, Stefan O’Rear, David Abdurachmanov
+Gentoo | [github](https://github.com/palmer-dabbelt/riscv-gentoo) |  | Palmer Dabbelt (University of California, Berkeley)
+OpenAnolis | [gitee](https://gitee.com/openanolis/riscv-cloud-kernel) | |
+OpenCloudOS | [gitee](https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel) | |
+OpenEuler | [gitee](https://gitee.com/openeuler/RISC-V/tree/master/release) | |
+openKylin | [bin](https://www.openkylin.top/downloads/628-cn.html) | |
 OpenMandriva | [openmandriva.org](http://abf-downloads.openmandriva.org/cooker/repository/riscv64/), [openmandriva.org](http://openmandriva.org/) | | Bernhard "Bero" Rosenkränzer
 openSUSE | [opensuse.org](https://build.opensuse.org/project/show/openSUSE:Factory:RISCV) |  | Andreas Schwab (SUSE)
-Gentoo | [github](https://github.com/palmer-dabbelt/riscv-gentoo) |  | Palmer Dabbelt (University of California, Berkeley)
 Parabola GNU/Linux-libre | [github](https://github.com/oaken-source/parabola-riscv64-bootstrap), [parabola.nu](https://git.parabola.nu/abslibre.git) | | Andreas Grapentin (University of Potsdam, HPI)
-Ataraxia Linux | [github](https://github.com/ataraxialinux/ataraxia) |  | protonesso
 Slackware Linux | [github](https://github.com/fede2cr/slackware_riscv/) |  | Álvaro Figueroa (of Greencore Solutions)
 Ubuntu | [ubuntu.com](https://wiki.ubuntu.com/RISC-V) | | [xnox](https://launchpad.net/~xnox)
-openKylin | [openKylin 开放麒麟](https://www.openkylin.top/downloads/628-cn.html) | |
-OpenEuler | [OpenEuler](https://gitee.com/openeuler/RISC-V/tree/master/release) | |
+
 ## Real-time Operating Systems
 
 Name | Links | License | Maintainers
